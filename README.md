@@ -10,7 +10,7 @@ In developing this documentation, I did particularly well in the evaluation sect
 Working through a design document was helpful in structuring my thoughts and planning the software development process. It enabled me to foresee potential challenges, identify key requirements, and establish a clear roadmap for the code's implementation.
 
 # If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
-If I could choose one part on this document to revise it would be the 
+If I could choose one part on this document to revise it would be the memory mangement section. I would elaborate more on the virtual strategies and they are related to the game's requirements and any potential challenges. To demonstrate how effective memory allocation, deallocation, and garbage collection aid in reducing memory leaks and enhancing game performance, I would include more real-world instances or scenarios.
 
 # How did you interpret the user’s needs and implement them into your software design? Why is it so important to consider the user’s needs when designing?
 Interpreting the user's needs involved understanding the client's vision, requirements, and goals. It was crucial to align the software design with these needs to ensure a solution that meets user expectations. Considering the user's needs is vital, as it directly impacts user satisfaction and the success of the software.
